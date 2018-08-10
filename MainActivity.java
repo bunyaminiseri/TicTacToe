@@ -1,4 +1,4 @@
-package com.example.bunyamin.connect3;
+package com.example.bunyamin.tictactoe;
 
 import android.graphics.Color;
 import android.provider.Settings;
